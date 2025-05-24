@@ -1,234 +1,234 @@
 [
   {
     "name": "Child Pose",
-    "calori": "10 kcal",
-    "mood": "sadness",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 10 kcal",
+    "mood": "Mood: sadness",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/childpose.jpg"
   },
   {
     "name": "Tree Pose",
-    "calori": "12 kcal",
-    "mood": "joy",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 12 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/treepose.jpg"
   },
   {
     "name": "Push-up",
-    "calori": "32 kcal",
-    "mood": "anger",
-    "count": "8x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 32 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 8x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/pushup.jpg"
   },
   {
     "name": "Knee Push-up",
-    "calori": "28 kcal",
-    "mood": "sadness",
-    "count": "10x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 28 kcal",
+    "mood": "Mood: sadness",
+    "count": "Repetitions: 10x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/kneepushup.jpg"
   },
   {
     "name": "Incline Push-up",
-    "calori": "35 kcal",
-    "mood": "fear",
-    "count": "16x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 35 kcal",
+    "mood": "Mood: fear",
+    "count": "Repetitions: 16x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/inclinepushup.jpg"
   },
   {
     "name": "Jumping Jacks",
-    "calori": "38 kcal",
-    "mood": "surprise",
-    "count": "18x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 38 kcal",
+    "mood": "Mood: surprise",
+    "count": "Repetitions: 18x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/jumpingjacks.jpg"
   },
   {
     "name": "Triceps Kickback",
-    "calori": "26 kcal",
-    "mood": "anger",
-    "count": "6x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 26 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 6x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/tricepskickback.jpg"
   },
   {
     "name": "Spinal Twist Right",
-    "calori": "11 kcal",
-    "mood": "sadness",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 11 kcal",
+    "mood": "Mood: sadness",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/spinaltwistright.jpg"
   },
   {
     "name": "Spinal Twist Left",
-    "calori": "11 kcal",
-    "mood": "sadness",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 11 kcal",
+    "mood": "Mood: sadness",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/spinaltwistleft.jpg"
   },
   {
     "name": "Wide Arm Push-up",
-    "calori": "36 kcal",
-    "mood": "anger",
-    "count": "8x",
-    "difficulty": "hard",
-    "image": "image link will be here"
+    "calori": "Calories: 36 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 8x",
+    "difficulty": "Difficulty: hard",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/widearmpushup.jpg"
   },
   {
     "name": "Arm Scissors",
-    "calori": "25 kcal",
-    "mood": "joy",
-    "count": "30x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 25 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 30x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/armscissors.jpg"
   },
   {
     "name": "Side Arm Raise",
-    "calori": "22 kcal",
-    "mood": "love",
-    "count": "16x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 22 kcal",
+    "mood": "Mood: love",
+    "count": "Repetitions: 16x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/sidearmraise.jpg"
   },
   {
     "name": "Side Lying Stretch Left",
-    "calori": "14 kcal",
-    "mood": "sadness",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 14 kcal",
+    "mood": "Mood: sadness",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/sidelyingstretchleft.jpg"
   },
   {
     "name": "Ab Crunch",
-    "calori": "28 kcal",
-    "mood": "anger",
-    "count": "12x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 28 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 12x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/abcrunch.jpg"
   },
   {
     "name": "Triceps Dips",
-    "calori": "27 kcal",
-    "mood": "anger",
-    "count": "10x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 27 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 10x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/tricepsdips.jpg"
   },
   {
     "name": "Cat Cow Pose",
-    "calori": "10 kcal",
-    "mood": "joy",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 10 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/catcowpose.jpg"
   },
   {
     "name": "Cobra Stretch",
-    "calori": "14 kcal",
-    "mood": "love",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 14 kcal",
+    "mood": "Mood: love",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/cobrastretch.jpg"
   },
   {
     "name": "Overhead Arm Raise",
-    "calori": "20 kcal",
-    "mood": "joy",
-    "count": "16x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 20 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 16x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/overheadarmraise.jpg"
   },
   {
     "name": "Sit-up",
-    "calori": "30 kcal",
-    "mood": "anger",
-    "count": "14x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 30 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 14x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/situp.jpg"
   },
   {
     "name": "Breathing Exercise",
-    "calori": "5 kcal",
-    "mood": "fear",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 5 kcal",
+    "mood": "Mood: fear",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/breathingexercise.jpg"
   },
   {
     "name": "Plank",
-    "calori": "20 kcal",
-    "mood": "anger",
-    "count": "1x",
-    "difficulty": "hard",
-    "image": "image link will be here"
+    "calori": "Calories: 20 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: hard",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/plank.jpg"
   },
   {
     "name": "Rhomboid Pull",
-    "calori": "22 kcal",
-    "mood": "joy",
-    "count": "14x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 22 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 14x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/rhomboidpull.jpg"
   },
   {
     "name": "Supine Push-up",
-    "calori": "26 kcal",
-    "mood": "anger",
-    "count": "10x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 26 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 10x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/supinepushup.jpg"
   },
   {
     "name": "Prone Triceps Push-up",
-    "calori": "30 kcal",
-    "mood": "anger",
-    "count": "14x",
-    "difficulty": "hard",
-    "image": "image link will be here"
+    "calori": "Calories: 30 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 14x",
+    "difficulty": "Difficulty: hard",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/pronetricepspushup.jpg"
   },
   {
     "name": "Bridge Pose",
-    "calori": "18 kcal",
-    "mood": "love",
-    "count": "10x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 18 kcal",
+    "mood": "Mood: love",
+    "count": "Repetitions: 10x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/bridgepose.jpg"
   },
   {
     "name": "Cross Scissors Crunch",
-    "calori": "28 kcal",
-    "mood": "anger",
-    "count": "14x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 28 kcal",
+    "mood": "Mood: anger",
+    "count": "Repetitions: 14x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/crossscissorscrunch.jpg"
   },
   {
     "name": "Meditation Pose",
-    "calori": "6 kcal",
-    "mood": "surprise",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 6 kcal",
+    "mood": "Mood: surprise",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/meditationpose.jpg"
   },
   {
     "name": "Superman Swimmer",
-    "calori": "26 kcal",
-    "mood": "joy",
-    "count": "12x",
-    "difficulty": "medium",
-    "image": "image link will be here"
+    "calori": "Calories: 26 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 12x",
+    "difficulty": "Difficulty: medium",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/supermanswimmer.jpg"
   },
   {
     "name": "Yoga Meditation (Man)",
-    "calori": "6 kcal",
-    "mood": "love",
-    "count": "1x",
-    "difficulty": "easy",
-    "image": "image link will be here"
+    "calori": "Calories: 6 kcal",
+    "mood": "Mood: love",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/yogameditation.jpg"
   }
 ]
