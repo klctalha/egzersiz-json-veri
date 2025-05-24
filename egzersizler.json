@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Child Pose",
+    "calori": "10 kcal",
+    "mood": "sadness",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Tree Pose",
+    "calori": "12 kcal",
+    "mood": "joy",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Push-up",
+    "calori": "32 kcal",
+    "mood": "anger",
+    "count": "8x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Knee Push-up",
+    "calori": "28 kcal",
+    "mood": "sadness",
+    "count": "10x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Incline Push-up",
+    "calori": "35 kcal",
+    "mood": "fear",
+    "count": "16x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Jumping Jacks",
+    "calori": "38 kcal",
+    "mood": "surprise",
+    "count": "18x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Triceps Kickback",
+    "calori": "26 kcal",
+    "mood": "anger",
+    "count": "6x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Spinal Twist Right",
+    "calori": "11 kcal",
+    "mood": "sadness",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Spinal Twist Left",
+    "calori": "11 kcal",
+    "mood": "sadness",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Wide Arm Push-up",
+    "calori": "36 kcal",
+    "mood": "anger",
+    "count": "8x",
+    "difficulty": "hard",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Arm Scissors",
+    "calori": "25 kcal",
+    "mood": "joy",
+    "count": "30x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Side Arm Raise",
+    "calori": "22 kcal",
+    "mood": "love",
+    "count": "16x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Side Lying Stretch Left",
+    "calori": "14 kcal",
+    "mood": "sadness",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Ab Crunch",
+    "calori": "28 kcal",
+    "mood": "anger",
+    "count": "12x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Triceps Dips",
+    "calori": "27 kcal",
+    "mood": "anger",
+    "count": "10x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Cat Cow Pose",
+    "calori": "10 kcal",
+    "mood": "joy",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Cobra Stretch",
+    "calori": "14 kcal",
+    "mood": "love",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Overhead Arm Raise",
+    "calori": "20 kcal",
+    "mood": "joy",
+    "count": "16x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Sit-up",
+    "calori": "30 kcal",
+    "mood": "anger",
+    "count": "14x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Breathing Exercise",
+    "calori": "5 kcal",
+    "mood": "fear",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Plank",
+    "calori": "20 kcal",
+    "mood": "anger",
+    "count": "1x",
+    "difficulty": "hard",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Rhomboid Pull",
+    "calori": "22 kcal",
+    "mood": "joy",
+    "count": "14x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Supine Push-up",
+    "calori": "26 kcal",
+    "mood": "anger",
+    "count": "10x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Prone Triceps Push-up",
+    "calori": "30 kcal",
+    "mood": "anger",
+    "count": "14x",
+    "difficulty": "hard",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Bridge Pose",
+    "calori": "18 kcal",
+    "mood": "love",
+    "count": "10x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Cross Scissors Crunch",
+    "calori": "28 kcal",
+    "mood": "anger",
+    "count": "14x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Meditation Pose",
+    "calori": "6 kcal",
+    "mood": "surprise",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Superman Swimmer",
+    "calori": "26 kcal",
+    "mood": "joy",
+    "count": "12x",
+    "difficulty": "medium",
+    "image": "image link will be here"
+  },
+  {
+    "name": "Yoga Meditation (Man)",
+    "calori": "6 kcal",
+    "mood": "love",
+    "count": "1x",
+    "difficulty": "easy",
+    "image": "image link will be here"
+  }
+]
