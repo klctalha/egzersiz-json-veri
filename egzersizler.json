@@ -144,14 +144,6 @@
     "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/situp.jpg"
   },
   {
-    "name": "Breathing Exercise",
-    "calori": "Calories: 5 kcal",
-    "mood": "Mood: fear",
-    "count": "Repetitions: 1x",
-    "difficulty": "Difficulty: easy",
-    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/breathingexercise.jpg"
-  },
-  {
     "name": "Plank",
     "calori": "Calories: 20 kcal",
     "mood": "Mood: anger",
@@ -222,6 +214,14 @@
     "count": "Repetitions: 1x",
     "difficulty": "Difficulty: easy",
     "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/treepose.jpg"
+  },
+  {
+    "name": "Breathing Exercise",
+    "calori": "Calories: 5 kcal",
+    "mood": "Mood: fear",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/breathingexercise.jpg"
   },
   {
     "name": "Yoga Meditation (Man)",
