@@ -8,14 +8,6 @@
     "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/childpose.jpg"
   },
   {
-    "name": "Tree Pose",
-    "calori": "Calories: 12 kcal",
-    "mood": "Mood: joy",
-    "count": "Repetitions: 1x",
-    "difficulty": "Difficulty: easy",
-    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/treepose.jpg"
-  },
-  {
     "name": "Push-up",
     "calori": "Calories: 32 kcal",
     "mood": "Mood: anger",
@@ -222,6 +214,14 @@
     "count": "Repetitions: 12x",
     "difficulty": "Difficulty: medium",
     "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/supermanswimmer.jpg"
+  },
+   {
+    "name": "Tree Pose",
+    "calori": "Calories: 12 kcal",
+    "mood": "Mood: joy",
+    "count": "Repetitions: 1x",
+    "difficulty": "Difficulty: easy",
+    "image": "https://raw.githubusercontent.com/klctalha/egzersiz-json-veri/main/images/treepose.jpg"
   },
   {
     "name": "Yoga Meditation (Man)",
